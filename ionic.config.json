@@ -1,0 +1,8 @@
+{
+  "name": "POS",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "ac6b6dcd"
+}
